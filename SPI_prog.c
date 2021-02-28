@@ -2,7 +2,7 @@
  * SPI_prog.c
  *
  *  Created on: Sep 29, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 #include"LIB/types.h"
 #include"LIB/util.h"
